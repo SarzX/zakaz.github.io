@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-input</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon-input" transform="translate(1.000000, 0.000000)" stroke="#9B9B9B">
+            <rect id="Rectangle-path" transform="translate(7.639162, 7.645613) rotate(45.000000) translate(-7.639162, -7.645613) " x="0.279162313" y="4.90561313" width="14.72" height="5.48"></rect>
+            <polyline id="Shape" points="10.91 14.78 16.74 16.79 14.78 10.91"></polyline>
+            <path d="M16.74,16.79 L6.32,16.79" id="Shape"></path>
+        </g>
+    </g>
+</svg>

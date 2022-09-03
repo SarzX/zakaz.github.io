@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.2">
+        <g id="Group">
+            <g id="Ресурс-1">
+                <rect id="Rectangle-path" stroke="#262424" stroke-width="1.29999995" stroke-linecap="round" stroke-linejoin="round" x="0.65" y="0.65" width="16.79" height="12.4" rx="0.17"></rect>
+                <path d="M0.295757585,2.82498833 C-0.00523115872,2.62934565 -0.0906310141,2.22674633 0.105011669,1.92575759 C0.300654353,1.62476884 0.703253671,1.53936899 1.00424241,1.73501167 L9.40424241,7.19501167 C9.70523116,7.39065435 9.79063101,7.79325367 9.59498833,8.09424241 C9.39934565,8.39523116 8.99674633,8.48063101 8.69575759,8.28498833 L0.295757585,2.82498833 Z" id="Shape" fill="#262424" fill-rule="nonzero"></path>
+                <path d="M17.0857576,1.73501167 C17.3867463,1.53936899 17.7893456,1.62476884 17.9849883,1.92575759 C18.180631,2.22674633 18.0952312,2.62934565 17.7942424,2.82498833 L9.39424241,8.28498833 C9.09325367,8.48063101 8.69065435,8.39523116 8.49501167,8.09424241 C8.29936899,7.79325367 8.38476884,7.39065435 8.68575759,7.19501167 L17.0857576,1.73501167 Z" id="Shape" fill="#262424" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
